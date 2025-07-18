@@ -59,6 +59,15 @@
 ![C](https://img.shields.io/badge/c-%2300599C?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white)
 
 </details>
+###Commit animations
+---
+
+## 🐍 My Contributions Animation
+
+<div align="center">
+  <img src="https://github.com/SubhajitBardhanPc/SubhajitBardhanPc/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
 
 ---
 
