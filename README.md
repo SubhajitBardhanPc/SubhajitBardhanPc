@@ -92,8 +92,8 @@
   
   <br/>
   
-  ## 🔗 Find me around the web
 ## 🔗 Find me around the web
+
 <div align="center">
   <h3>🔗 Find Me Around the Web</h3>
 
