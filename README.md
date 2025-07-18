@@ -87,16 +87,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SubhajitBardhanPc&theme=onedark&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SubhajitBardhanPc
-  &theme=gitdimmed
-  &no-frame=true
-  &no-bg=true
-  &margin-w=8
-  &column=6
-  &title=Stars,Followers,Repositories,Commits,Issues,PullRequest"
-  alt="GitHub Trophies" width="85%" />
-</p>
 
 
 
