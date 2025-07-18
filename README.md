@@ -132,5 +132,6 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontColor=ffffff&text=&animation=fadeIn&colors=lightblue,skyblue,silver"/>
 </div>
+
