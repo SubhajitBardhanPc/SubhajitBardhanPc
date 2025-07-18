@@ -6,15 +6,16 @@
   </h1>
 
   <!-- 🌐 Portfolio Link with Gradient -->
-  <div style="
-    background: linear-gradient(45deg, #00b894, #00cec9);
-    padding: 10px;
-    border-radius: 10px;
-    margin: 20px 0;">
-    <a href="https://subhajitbardhan.netlify.app/" target="_blank">
-     
-    </a>
-  </div>
+ <div style="
+  background: linear-gradient(45deg, #00b894, #00cec9);
+  padding: 10px;
+  border-radius: 10px;
+  margin: 20px 0;">
+  <a href="https://subhajitbardhan.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" height="40" />
+  </a>
+</div>
+
 
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00B894&center=true&vCenter=true&width=550&lines=Full+Stack+Software+Developer;React+%7C+Node.js+%7C+Spring+Boot+%7C+Java;Frontend+%26+Backend+Expert;Always+Learning+%26+Building;Open+Source+Contributor" alt="Typing SVG" />
