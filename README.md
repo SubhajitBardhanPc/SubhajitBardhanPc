@@ -84,6 +84,9 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhajitBardhanPc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SubhajitBardhanPc&theme=onedark&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies"/>
+</p>
 
 
 ---
