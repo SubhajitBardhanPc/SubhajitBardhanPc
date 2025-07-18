@@ -12,7 +12,7 @@
     border-radius: 10px;
     margin: 20px 0;">
     <a href="https://subhajitbardhan.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white&labelColor=000" alt="Portfolio" height="40" />
+     
     </a>
   </div>
 
