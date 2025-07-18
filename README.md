@@ -28,8 +28,8 @@
 🌱 **Currently Learning:** Full-stack dev & modern UI/UX patterns  
 💡 **Focus:** Scalable web apps, mobile dev & system architecture  
 🎯 **Goal:** Build impactful software that makes a difference  
-🌐 **Portfolio:** ![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=safari&logoColor=white) [subhajitbardhan.netlify.app](https://subhajitbardhan.netlify.app/)  
-📧 **Contact:** ![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white) [bardhansubhajit3@gmail.com](mailto:bardhansubhajit3@gmail.com)
+🌐 ![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=safari&logoColor=white) [subhajitbardhan.netlify.app](https://subhajitbardhan.netlify.app/)  
+📧 ![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white) [bardhansubhajit3@gmail.com](mailto:bardhansubhajit3@gmail.com)
 
 ---
 
