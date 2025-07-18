@@ -83,9 +83,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=SubhajitBardhanPc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&icon_color=FFD700"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhajitBardhanPc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9"/>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SubhajitBardhanPc&label=Daily+Commit+Streak&color=brightgreen&style=flat-square" alt="commit streak badge"/>
-</p>
+
 
 
 ---
