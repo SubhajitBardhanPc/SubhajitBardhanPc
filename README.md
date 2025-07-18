@@ -4,25 +4,30 @@
     Hey there, I'm <span style="color:#00b894;">Subhajit Bardhan</span>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="border-radius:50%;" />
   </h1>
-  
-  <!-- Eye-catching Portfolio Link -->
-  <div style="background: linear-gradient(45deg, #00b894, #00cec9); padding: 10px; border-radius: 10px; margin: 20px 0;">
+
+  <!-- 🌐 Portfolio Link with Gradient -->
+  <div style="
+    background: linear-gradient(45deg, #00b894, #00cec9);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px 0;">
     <a href="https://subhajitbardhan.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white&labelColor=000" alt="Portfolio" height="40"/>
+      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white&labelColor=000" alt="Portfolio" height="40" />
     </a>
   </div>
-  
+
+  <!-- Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00B894&center=true&vCenter=true&width=550&lines=Full+Stack+Software+Developer;React+%7C+Node.js+%7C+Spring+Boot+%7C+Java;Frontend+%26+Backend+Expert;Always+Learning+%26+Building;Open+Source+Contributor" alt="Typing SVG" />
-  
+
   <br/>
-  
+
+  <!-- Tech Icons -->
   <img src="https://skillicons.dev/icons?i=react,nodejs,spring,mongodb,java,javascript,typescript,html,css,mysql,git,github&theme=dark&perline=6" alt="Tech Stack Animation" />
 </div>
 
 ---
 
 ## 🚀 About Me
-
 ✨ **Passionate Software Developer** from India with a love for clean code & innovative solutions  
 🛠 **Tech Stack:** React, React Native, Java, Spring Boot, SQL/MySQL, MongoDB  
 🌱 **Currently Learning:** Full-stack dev & modern UI/UX patterns  
@@ -84,84 +89,43 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
-  
-  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
-  
-  **Thanks for visiting! Let's build something amazing together 🚀**
-  
-  <br/>
-  
-## 🔗 Find me around the web
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"><br/>
+  <strong>"Code is like humor. When you have to explain it, it's bad." – Cory House</strong>
+  <br/><br/>
+  <strong>Thanks for visiting! Let's build something amazing together 🚀</strong>
+</div>
+
+---
 
 <div align="center">
   <h3>🔗 Find Me Around the Web</h3>
-
-  <a href="https://subhajitbardhan.netlify.app/" target="_blank" style="text-decoration:none;">
+  <a href="https://subhajitbardhan.netlify.app/" target="_blank">
     <button style="
-      margin: 10px; 
-      padding: 14px 28px; 
-      font-size: 16px; 
-      color: white; 
-      background: linear-gradient(145deg, #ff7043, #ff5722); 
-      border: none; 
-      border-radius: 12px; 
-      box-shadow: 0 6px #cc4b1c; 
-      cursor: pointer; 
-      transition: all 0.3s ease; 
-      font-weight: 600;
-      transform-style: preserve-3d;
-      perspective: 1000px;"
-      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(255,87,34,0.4)'"
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px #cc4b1c'">
+      margin:10px;padding:14px 28px;font-size:16px;color:white;
+      background:linear-gradient(145deg,#ff7043,#ff5722);border:none;
+      border-radius:12px;box-shadow:0 6px #cc4b1c;cursor:pointer;
+      transition:all .3s;font-weight:600;">
       🌐 Visit Portfolio
     </button>
   </a>
-
-  <a href="https://linkedin.com/in/subhajitbardhan" target="_blank" style="text-decoration:none;">
+  <a href="https://linkedin.com/in/subhajitbardhan" target="_blank">
     <button style="
-      margin: 10px; 
-      padding: 14px 28px; 
-      font-size: 16px; 
-      color: white; 
-      background: linear-gradient(145deg, #2283c5, #0077b5); 
-      border: none; 
-      border-radius: 12px; 
-      box-shadow: 0 6px #005983; 
-      cursor: pointer; 
-      transition: all 0.3s ease; 
-      font-weight: 600;
-      transform-style: preserve-3d;
-      perspective: 1000px;"
-      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0,119,181,0.4)'"
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px #005983'">
+      margin:10px;padding:14px 28px;font-size:16px;color:white;
+      background:linear-gradient(145deg,#2283c5,#0077b5);border:none;
+      border-radius:12px;box-shadow:0 6px #005983;cursor:pointer;
+      transition:all .3s;font-weight:600;">
       💼 Connect on LinkedIn
     </button>
   </a>
-
-  <a href="https://github.com/SubhajitBardhanPc" target="_blank" style="text-decoration:none;">
+  <a href="https://github.com/SubhajitBardhanPc" target="_blank">
     <button style="
-      margin: 10px; 
-      padding: 14px 28px; 
-      font-size: 16px; 
-      color: white; 
-      background: linear-gradient(145deg, #444, #222); 
-      border: none; 
-      border-radius: 12px; 
-      box-shadow: 0 6px #000; 
-      cursor: pointer; 
-      transition: all 0.3s ease; 
-      font-weight: 600;
-      transform-style: preserve-3d;
-      perspective: 1000px;"
-      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.4)'"
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px #000'">
+      margin:10px;padding:14px 28px;font-size:16px;color:white;
+      background:linear-gradient(145deg,#444,#222);border:none;
+      border-radius:12px;box-shadow:0 6px #000;cursor:pointer;
+      transition:all .3s;font-weight:600;">
       🐙 GitHub Profile
     </button>
   </a>
-</div>
-
-
 </div>
 
 ---
