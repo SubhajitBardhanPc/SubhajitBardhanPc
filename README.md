@@ -92,7 +92,76 @@
   
   <br/>
   
-  ![Profile Views](https://visitcount.itsvg.in/api?id=SubhajitBardhanPc&icon=2&color=0)
+  ## 🔗 Find me around the web
+## 🔗 Find me around the web
+<div align="center">
+  <h3>🔗 Find Me Around the Web</h3>
+
+  <a href="https://subhajitbardhan.netlify.app/" target="_blank" style="text-decoration:none;">
+    <button style="
+      margin: 10px; 
+      padding: 14px 28px; 
+      font-size: 16px; 
+      color: white; 
+      background: linear-gradient(145deg, #ff7043, #ff5722); 
+      border: none; 
+      border-radius: 12px; 
+      box-shadow: 0 6px #cc4b1c; 
+      cursor: pointer; 
+      transition: all 0.3s ease; 
+      font-weight: 600;
+      transform-style: preserve-3d;
+      perspective: 1000px;"
+      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(255,87,34,0.4)'"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px #cc4b1c'">
+      🌐 Visit Portfolio
+    </button>
+  </a>
+
+  <a href="https://linkedin.com/in/subhajitbardhan" target="_blank" style="text-decoration:none;">
+    <button style="
+      margin: 10px; 
+      padding: 14px 28px; 
+      font-size: 16px; 
+      color: white; 
+      background: linear-gradient(145deg, #2283c5, #0077b5); 
+      border: none; 
+      border-radius: 12px; 
+      box-shadow: 0 6px #005983; 
+      cursor: pointer; 
+      transition: all 0.3s ease; 
+      font-weight: 600;
+      transform-style: preserve-3d;
+      perspective: 1000px;"
+      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0,119,181,0.4)'"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px #005983'">
+      💼 Connect on LinkedIn
+    </button>
+  </a>
+
+  <a href="https://github.com/SubhajitBardhanPc" target="_blank" style="text-decoration:none;">
+    <button style="
+      margin: 10px; 
+      padding: 14px 28px; 
+      font-size: 16px; 
+      color: white; 
+      background: linear-gradient(145deg, #444, #222); 
+      border: none; 
+      border-radius: 12px; 
+      box-shadow: 0 6px #000; 
+      cursor: pointer; 
+      transition: all 0.3s ease; 
+      font-weight: 600;
+      transform-style: preserve-3d;
+      perspective: 1000px;"
+      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.4)'"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px #000'">
+      🐙 GitHub Profile
+    </button>
+  </a>
+</div>
+
+
 </div>
 
 ---
